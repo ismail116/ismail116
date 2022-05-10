@@ -1,3 +1,8 @@
+<div align="center">
+<img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
+<br>
+
+
 <h1 align="center">Hi, I'm Ismail 👋</h1>
 
 
@@ -11,16 +16,16 @@
 
 <img src="https://github.com/ismail116/ismail116/blob/main/profile-img.png" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology to elevate people and help new developers to find the right path. Some technologies I enjoy working with include Javascript, ReactJS, React-Native, and Firebase.
+I'm a software developer who is passionate about creating technology , I were  Graduared From Faculty of Comuters And Artifical Intelligence Mediacl Informatics Depatment. Some technologies I enjoy working with include Flutter, Dart, HTML, CSS, JS, BootStrap , and Firebase.
 
 
-- 🔭 I’m currently Fresh Graduared From Faculty of Comuters And Artifical Intelligence Mediacl Informatics Depatment
+- 🔭 I’m currently Fresh Graduated
 - 💻 I’m currently learning Cross platform mobile 
-- ⌨️ I were Recently learned web design 
-- 📫 How to reach me: 
+- 🌱 I were Recently learned web design 
+- 📫 How to reach me: esmailhelal78@gmail.com
 
 
-<
+
 <!--
 **ismail116/ismail116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
