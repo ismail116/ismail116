@@ -9,6 +9,7 @@
 
 
 <p align="center">
+    
     <a href="mailto:esmailhelal78@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
     
      <a href="https://github.com/ismail116/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>
@@ -18,8 +19,6 @@
     <a href="https://twitter.com/IsmailHelal11"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
    
    
-   
-  
 </p>
 
 <img src="https://github.com/ismail116/ismail116/blob/main/profile-img.png" align="right" width="25%"/>
