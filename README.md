@@ -7,7 +7,10 @@
 
 <h1 align="center">Hi, I'm Ismail 👋</h1>
 
-
+<p align="center">
+    
+<a href="mailto:esmailhelal78@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>  <a href="https://github.com/ismail116/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>  <a href="https://www.linkedin.com/in/ismail-helal-643858199"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/IsmailHelal11"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>  
+</p>
 
 <img src="https://github.com/ismail116/ismail116/blob/main/profile-img.png" align="right" width="25%"/>
 
@@ -19,13 +22,9 @@ I'm a software developer who is passionate about creating technology , I were  G
 - 🌱 I were Recently learned web design 
 
 
-### REAch ME
 
-<p align="center">
-    
-<a href="mailto:esmailhelal78@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>  <a href="https://github.com/ismail116/" target="_blank"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" alt="GitHub"></a>   
-<a href="https://www.linkedin.com/in/ismail-helal-643858199"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a> <a href="https://twitter.com/IsmailHelal11"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>  
-</p>
+
+
 
 <!--
 **ismail116/ismail116** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
