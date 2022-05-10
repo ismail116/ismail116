@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center"> -->
 <img src="https://i.imgur.com/8MupZHY.gif" width="400px" />
 <br>
 
@@ -10,7 +10,7 @@
     <a href="https://twitter.com/IsmailHelal11"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/ismail-helal-643858199"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
    
-     <a href="https://www.instagram.com/ismailhelal11/"><img src="https://img.shields.io/badge/instagram-%23E4415F?style=flat&logo=instagram&logoColor=white"/></a>
+     
    
 </p>
 
