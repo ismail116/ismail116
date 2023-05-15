@@ -16,8 +16,7 @@
 I am a software engineer with one year of experience in developing web applications using PHP, Laravel, Node Js, Angular and other technologies. I have a strong knowledge of AWS cloud services, code deployment, infrastructure engineering and network administration. I am proficient in using various tools and frameworks such as GitHup, Git, Bootstrap and jQuery. I am eager to learn new skills and technologies and transition to a cloud development role in a challenging and innovative environment.
 
 
-- 🔭 I’m currently Fresh Graduated
-- 💻 I’m currently learning Cloud Computing Technology ( Azure - AWS )
+- 🔭 I’m currently learning Cloud Computing Technology ( Azure - AWS )
 - 💻 I were Recently learned  Cross platform mobile 
 - 🌱 I were Recently learned web design 
 
