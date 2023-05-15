@@ -13,11 +13,12 @@
 
 <img src="https://github.com/ismail116/ismail116/blob/main/profile-img.png" align="right" width="25%"/>
 
-I'm a software developer who is passionate about creating technology , I were  Graduared From Faculty of Comuters And Artifical Intelligence Mediacl Informatics Depatment. Some technologies I enjoy working with include Flutter, Dart, HTML, CSS, JS, BootStrap , and Firebase.
+I am a software engineer with one year of experience in developing web applications using PHP, Laravel, Node Js, Angular and other technologies. I have a strong knowledge of AWS cloud services, code deployment, infrastructure engineering and network administration. I am proficient in using various tools and frameworks such as GitHup, Git, Bootstrap and jQuery. I am eager to learn new skills and technologies and transition to a cloud development role in a challenging and innovative environment.
 
 
 - 🔭 I’m currently Fresh Graduated
-- 💻 I’m currently learning Cross platform mobile 
+- 💻 I’m currently learning Cloud Computing Technology ( Azure - AWS )
+- 💻 I were Recently learned  Cross platform mobile 
 - 🌱 I were Recently learned web design 
 
 
