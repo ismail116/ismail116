@@ -18,7 +18,7 @@ I am a software engineer with one year of experience in developing web applicati
 
 - 🔭 I’m currently learning Cloud Computing Technology ( Azure - AWS )
 - 💻 I were Recently learned  Cross platform mobile 
-- 🌱 I were Recently learned web design 
+- 🌱 I were learned web design 
 
 
 
