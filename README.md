@@ -14,7 +14,12 @@
 
 <img src="https://github.com/ismail116/ismail116/blob/main/profile-img.png" align="right" width="25%"/>
 
-I am a software engineer with one year of experience in developing web applications using PHP, Laravel, Node Js, Angular and other technologies. I have a strong knowledge of AWS cloud services, code deployment, infrastructure engineering and network administration. I am proficient in using various tools and frameworks such as GitHup, Git, Bootstrap and jQuery. I am eager to learn new skills and technologies and transition to a cloud development role in a challenging and innovative environment.
+I am a software engineer with a Great knowledge of Amazon Web Service cloud and good knowledge
+with Microsoft Azure ,I have one year of experience in developing web applications using Node Js,
+Angular and other technologie such as code deployment, infrastructure engineering and network
+administration. I am proficient in using various tools and frameworks such as GitHup, Git, Bootstrap and
+jQuery. I am eager to learn new skills and technologies and transition to a cloud development role in a
+challenging and innovative environment.
 
 
 - 🔭 I’m currently learning Cloud Computing Technology ( Azure - AWS )
