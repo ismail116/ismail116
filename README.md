@@ -14,12 +14,7 @@
 
 <img src="https://github.com/ismail116/ismail116/blob/main/profile-img.png" align="right" width="25%"/>
 
-I am a software engineer familiar with Amazon Web Service cloud and solid Administrator Skills.     
-I have one year of experience in the IT technical support field and two years of experience of
-developing web applications using Node, Angular and other technologies, such as code
-deployment, software development, infrastructure engineering and network administration. I am
-proficient in using various tools and frameworks. I am eager to learn new skills and technologies
-and transition to a cloud development role in a challenging and innovative environment.
+I am a software engineer familiar with Amazon Web Service cloud and solid Administrator Skills.I have one year of experience in the IT technical support field and two years of experience of developing web applications using Node, Angular and other technologies, such as code deployment, software development, infrastructure engineering and network administration. I am proficient in using various tools and frameworks. I am eager to learn new skills and technologies and transition to a cloud development role in a challenging and innovative environment.
 
 
 - 🤔 I’m looking for job as cloud engineer or system adminstator . 
