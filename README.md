@@ -14,16 +14,17 @@
 
 <img src="https://github.com/ismail116/ismail116/blob/main/profile-img.png" align="right" width="25%"/>
 
-I am a software engineer with a Great knowledge of Amazon Web Service cloud and good knowledge
-with Microsoft Azure ,I have one year of experience in developing web applications using Node Js,
-Angular and other technologie such as code deployment, infrastructure engineering and network
-administration. I am proficient in using various tools and frameworks such as GitHup, Git, Bootstrap and
-jQuery. I am eager to learn new skills and technologies and transition to a cloud development role in a
-challenging and innovative environment.
+I am a software engineer familiar with Amazon Web Service cloud and solid Administrator Skills.
+I have one year of experience in the IT technical support field and two years of experience of
+developing web applications using Node, Angular and other technologies, such as code
+deployment, software development, infrastructure engineering and network administration. I am
+proficient in using various tools and frameworks. I am eager to learn new skills and technologies
+and transition to a cloud development role in a challenging and innovative environment.
 
 
-- 🔭 I’m currently learning Cloud Computing Technology ( Azure - AWS )
-- 💻 I were Recently learned  Cross platform mobile 
+- 🤔 I’m looking for job as cloud engineer or system adminstator . 
+- 🔭 I’m currently working on Cloud Computing Technology { AWS } .
+- 💻 I were Recently learned  MEAN Stack .
 - 🌱 I were learned web design 
 
 
