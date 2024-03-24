@@ -17,9 +17,19 @@
 I am a software engineer familiar with Amazon Web Service cloud, and I have solid administrator skills. I have one year of experience in the IT technical support field and two years of experience developing web applications using Node, Angular, and other technologies, such as code deployment, software development, infrastructure engineering, and network administration. I am proficient in using various tools and frameworks. I am eager to learn new technologies, transition to a cloud specialist role
 and work as a devops engineer in a challenging and innovative environment
 
-- 🤔 I’m looking for job as Devops engineer or system adminstator . 
+📫 Graduation Project | VitalSigns Monitor
+Key Features:
+1- Real-time monitoring of vital signs like oxygen rate and blood pressure.
+2- Flutter app interface with cards displaying last measurements and dynamic graphs showing daily trends.
+3- Video-based measurement using a finger camera linked with machine learning models.
+4- Machine learning compares measurements with standards, displaying results in cards and updating the graph.
+5- Profile page stores user's medical history, blood type, personal info, and chronic diseases.
+Objective:
+Empowering users to proactively manage their health by providing accurate, real-time monitoring and analysis of vital signs through an intuitive Flutter-based mobile application.
+
+- 🤔 I’m looking for job as Devops engineer. 
 - 🔭 I’m currently working on Cloud Computing Technology { AWS } .
-- 💻 I were Recently learned  MEAN Stack .
+- 💻 I were Recently learned  Node js & Angular[Mean Stack] .
 - 🌱 I were learned web design 
 
 
