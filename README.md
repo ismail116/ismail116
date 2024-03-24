@@ -18,7 +18,9 @@ I am a software engineer familiar with Amazon Web Service cloud, and I have soli
 and work as a devops engineer in a challenging and innovative environment
 
 📫 Graduation Project | VitalSigns Monitor
+
 Key Features:
+
 1- Real-time monitoring of vital signs like oxygen rate and blood pressure.
 2- Flutter app interface with cards displaying last measurements and dynamic graphs showing daily trends.
 3- Video-based measurement using a finger camera linked with machine learning models.
