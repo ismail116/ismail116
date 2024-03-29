@@ -14,8 +14,10 @@
 
 <img src="https://github.com/ismail116/ismail116/blob/main/profile-img.png" align="right" width="25%"/>
 
-I am a software engineer familiar with Amazon Web Service cloud, and I have solid administrator skills. I have one year of experience in the IT technical support field and two years of experience developing web applications using Node, Angular, and other technologies, such as code deployment, software development, infrastructure engineering, and network administration. I am proficient in using various tools and frameworks. I am eager to learn new technologies, transition to a cloud specialist role
-and work as a devops engineer in a challenging and innovative environment
+Devops engineer familiar with Amazon Web Service cloud, and I have solid administrator skills. I have two years of experience in the
+IT technical support field and two years of experience developing web applications using Node, Angular, and other technologies,
+such infrastructure engineering, and network administration. I am eager to learn new technologies, transition to a cloud specialist
+role and work as a devops engineer in a challenging and innovative environmen
 
 📫 Graduation Project | VitalSigns Monitor
 
