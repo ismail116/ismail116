@@ -14,7 +14,9 @@
 
 <img src="https://github.com/ismail116/ismail116/blob/main/profile-img.png" align="right" width="25%"/>
 
-Seeking a challenging role as a DevOps Engineer, Passionate about leveraging my skills in the Amazon Web Services (AWS) cloud, coupled with a strong foundation in infrastructure engineering and network administration to contribute effectively to the field.
+Passionate about leveraging my skills in AWS, cloud infrastructure, and DevOps automation to drive operational efficiency and scalability.
+With a strong background in infrastructure engineering and network administration, I focus on optimizing systems for resilience and
+performance. Committed to continuous improvement and innovation in cloud environments.
 
 📫 Graduation Project | VitalSigns Monitor
 
