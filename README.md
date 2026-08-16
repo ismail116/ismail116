@@ -19,25 +19,11 @@ Docker, Kubernetes and Terraform. Passionate about leveraging my skills in cloud
 operational efficiency and scalability. With over 2 years of experience, I have delivered up to 60% faster deployments and maintained 99%
 uptime across multi-cloud environments, I focus on optimizing systems for resilience and performance.
 
-📫 Graduation Project | VitalSigns Monitor
-
-Key Features:
-
-1- Real-time monitoring of vital signs like oxygen rate and blood pressure.
-
-2- Flutter app interface with cards displaying last measurements and dynamic graphs showing daily trends.
-
-3- Video-based measurement using a finger camera linked with machine learning models.
-
-4- Machine learning compares measurements with standards, displaying results in cards and updating the graph.
-
-5- Profile page stores user's medical history, blood type, personal info, and chronic diseases.
 
 Objective:
 
 Empowering users to proactively manage their health by providing accurate, real-time monitoring and analysis of vital signs through an intuitive Flutter-based mobile application.
 
-- 🤔 I’m looking for job as Devops engineer. 
 - 🔭 I’m currently working on Cloud Computing Technology { AWS } .
 - 💻 I were Recently learned  Node js & Angular[Mean Stack] .
 - 🌱 I were learned web design 
