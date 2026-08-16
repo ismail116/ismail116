@@ -20,10 +20,6 @@ operational efficiency and scalability. With over 2 years of experience, I have 
 uptime across multi-cloud environments, I focus on optimizing systems for resilience and performance.
 
 
-Objective:
-
-Empowering users to proactively manage their health by providing accurate, real-time monitoring and analysis of vital signs through an intuitive Flutter-based mobile application.
-
 - 🔭 I’m currently working on Cloud Computing Technology { AWS } .
 - 💻 I were Recently learned  Node js & Angular[Mean Stack] .
 - 🌱 I were learned web design 
