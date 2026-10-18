@@ -20,9 +20,9 @@ operational efficiency and scalability. With over 2 years of experience, I have 
 uptime across multi-cloud environments, I focus on optimizing systems for resilience and performance.
 
 
-- 🔭 I’m currently working on Cloud Computing Technology { AWS } .
+- 🔭 I’m currently working on Devops & Cloud Computing Technology { AWS - GCP - Oracle } .
 - 💻 I were Recently learned  Node js & Angular[Mean Stack] .
-- 🌱 I were learned web design 
+- 🌱 I were learned web design .
 
 
 
