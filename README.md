@@ -16,7 +16,7 @@
 
 DevOps Engineer with hands-on experience in building CI/ CD pipelines, containerizing apps, and deploying to cloud platforms using
 Docker, Kubernetes and Terraform. Passionate about leveraging my skills in cloud infrastructure, and DevOps automation to drive
-operational efficiency and scalability. With over 2 years of experience, I have delivered up to 60% faster deployments and maintained 99%
+operational efficiency and scalability. With over 3 years of experience, I have delivered up to 60% faster deployments and maintained 99%
 uptime across multi-cloud environments, I focus on optimizing systems for resilience and performance.
 
 
